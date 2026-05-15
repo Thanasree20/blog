@@ -30,7 +30,7 @@ const CreatePost = () => {
     try {
 
       await axios.post(
-        "http://localhost:5000/api/posts",
+        "https://blog-8lfj.onrender.com/api/posts",
         {
           title,
           content

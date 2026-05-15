@@ -17,7 +17,7 @@ const Register = () => {
     e.preventDefault()
 
     await axios.post(
-      "http://localhost:5000/api/auth/register",
+      "https://blog-8lfj.onrender.com/api/auth/register",
       form
     )
 
