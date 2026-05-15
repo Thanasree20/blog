@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "971d6bb9-5df1-407c-8ec6-40bd31910ce0",
+      "name": "anu",
+      "email": "anu@gmail.com",
+      "password": "$2b$10$SBpdMCVKvhK88N19WAYGt.iYYVrYHPKQPz0zZfd9OLyyk9/ZnBYNq"
+    }
+  ],
+  "posts": [],
+  "comments": []
+}
